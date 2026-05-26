@@ -19,3 +19,6 @@ end, { desc = "Format file" })
 map("n", "<S-l>", "<cmd>BufferLineCycleNext<CR>", { desc = "Next Buffer" })
 map("n", "<S-h>", "<cmd>BufferLineCyclePrev<CR>", { desc = "Prev Buffer" })
 map("n", "<leader>x", "<cmd>bdelete<CR>", { desc = "Close Buffer" })
+
+
+-- Customize by MURUGAVEL 

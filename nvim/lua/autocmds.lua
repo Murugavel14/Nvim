@@ -5,3 +5,6 @@ vim.filetype.add({
     v = "verilog",
   },
 })
+
+
+-- Customize by MURUGAVEL 

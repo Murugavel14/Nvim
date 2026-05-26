@@ -22,3 +22,6 @@ vim.lsp.enable(servers)
 --     "python",
 --   },
 -- })
+
+
+-- Customize by MURUGAVEL 
