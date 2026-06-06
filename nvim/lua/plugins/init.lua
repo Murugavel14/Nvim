@@ -103,6 +103,17 @@ return {
     event = "User FilePost",
     opts = {},
   },
+  -- add flash.nvim
+  {
+    "folke/flash.nivm",
+    event = "VeryLazy",
+  },
+  -- add zen-mode.nvim
+  {
+    "folke/zen-mode.nvim",
+    cmd = "ZenMode",
+    opts = {},
+  },
   -- add godot-scenetree.nvim
   -- {
   --   "topaxi/godot.nvim",
